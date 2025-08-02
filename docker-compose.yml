@@ -1,0 +1,19 @@
+
+services:
+  backend:
+    build:
+      context: ./QuickChatBackend
+    container_name: quickchat-backend
+    ports:
+      - "7464:7464"
+    env_file:
+      - ./QuickChatBackend/.env
+    restart: always
+
+  frontend:
+    build:
+      context: ./QuickChatFrontend
+    container_name: quickchat-frontend
+    ports:
+      - "5173:80"
+    restart: always
