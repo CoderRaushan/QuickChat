@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 [submodule "QuickChatFrontend"]
 	path = QuickChatFrontend
 	url = https://github.com/CoderRaushan/QuickChatFrontend
 [submodule "QuickChatBackend"]
 	path = QuickChatBackend
 	url = https://github.com/CoderRaushan/QuickChatBackend
+=======
+[submodule "QuickChatBackend"]
+	path = QuickChatBackend
+	url = https://github.com/CoderRaushan/QuickChatBackend
+[submodule "QuickChatFrontend"]
+	path = QuickChatFrontend
+	url = https://github.com/CoderRaushan/QuickChatFrontend
+>>>>>>> ac52f4204d3d65124ca304a959bfd5b0a3e6be0f
