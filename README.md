@@ -276,16 +276,47 @@ docker-compose up --build
 ---
 
 ## Screenshots
+### Signup
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/signup.png)
+
+### Signin
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/signin.png)
 
 ### Home Page
-![Home Page](QuickChatFrontend/public/Homepage.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/Homepage.png)
 
-### Chat Window
-![Chat Window](QuickChatFrontend/public/screenshots/chat-window.png)
+### Comment Page
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/comments.png)
 
-### Real-Time Messaging Demo
-![Real-Time Messaging](QuickChatFrontend/public/screenshots/chat-demo.gif)
+### Search Page
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/search.png)
 
+### Explore Page
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/explore.png)
+
+### Chat Page
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/message.png)
+
+### Real-Time Notification
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/notification.png)
+
+### Create Page
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/create.png)
+
+### Profile Page
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/profile.png)
+
+### Create Story 
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story1.png)
+
+### Story Section
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story5.png)
+
+### Show Story 
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story3.png)
+
+### show Story with views & likes
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story4.png)
 
 ## Getting Started
 
