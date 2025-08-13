@@ -41,7 +41,7 @@ QuickChat is a full-stack social media and chat application featuring real-time 
 
 ## Tech Stack
 
-### Backend ([`QuickChatBackend`](QuickChatBackend/))
+### Backend
 - Node.js, Express.js
 - MongoDB & Mongoose
 - Socket.io for real-time messaging
@@ -51,7 +51,7 @@ QuickChat is a full-stack social media and chat application featuring real-time 
 - Cloudinary for image uploads
 - JWT for authentication
 
-### Frontend ([`QuickChatFrontend`](QuickChatFrontend/))
+### Frontend
 - React (with Vite)
 - Redux Toolkit for state management
 - React Router for navigation
