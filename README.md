@@ -141,7 +141,7 @@ VITE_MainUri=http://localhost:4234
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/CoderRaushan/QuickChat
+git clone --recurse-submodules https://github.com/CoderRaushan/QuickChat.git
 cd QuickChat
 ```
 
