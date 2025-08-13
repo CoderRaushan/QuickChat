@@ -2,8 +2,8 @@
 
 QuickChat is a full-stack social media and chat application featuring real-time messaging, stories, posts, comments, notifications, and more. The project is split into two main parts:
 
-- [`QuickChatBackend`](https://github.com/CoderRaushan/QuickChatFrontend) – Node.js/Express backend with MongoDB, REST APIs, authentication, and real-time socket communication.
-- [`QuickChatFrontend`](QuickChatFrontend/) – React frontend with Redux, Vite, and Tailwind CSS.
+- [`QuickChatBackend`](https://github.com/CoderRaushan/QuickChatBackend) – Node.js/Express backend with MongoDB, REST APIs, authentication, and real-time socket communication.
+- [`QuickChatFrontend`](https://github.com/CoderRaushan/QuickChatFrontend) – React frontend with Redux, Vite, and Tailwind CSS.
 
 ---
 
