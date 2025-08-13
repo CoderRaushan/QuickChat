@@ -141,7 +141,7 @@ VITE_MainUri=http://localhost:4234
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/QuickChat.git
+git clone https://github.com/CoderRaushan/QuickChat
 cd QuickChat
 ```
 
@@ -151,7 +151,7 @@ cd QuickChat
 cd QuickChatBackend
 npm install
 # Set up your .env file as described above
-npm run dev
+npm start
 ```
 
 ### 3. Setup Frontend
@@ -367,7 +367,7 @@ npm install
 - Start the backend server:
 
     ```sh
-    npm run dev
+    npm start
     ```
 
 ---
