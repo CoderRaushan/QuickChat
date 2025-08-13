@@ -307,7 +307,7 @@ docker-compose up --build
 ![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/profile.png)
 
 ### Create Story 
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story1.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/story1.png)
 
 ### Story Section
 ![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/story5.png)
