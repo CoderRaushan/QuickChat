@@ -277,46 +277,46 @@ docker-compose up --build
 
 ## Screenshots
 ### Signup
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/signup.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/signup.png)
 
 ### Signin
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/signin.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/signin.png)
 
 ### Home Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/Homepage.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/Homepage.png)
 
 ### Comment Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/comments.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/comments.png)
 
 ### Search Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/search.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/search.png)
 
 ### Explore Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/explore.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/explore.png)
 
 ### Chat Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/message.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/message.png)
 
 ### Real-Time Notification
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/notification.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/notification.png)
 
 ### Create Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/create.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/create.png)
 
 ### Profile Page
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/profile.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/profile.png)
 
 ### Create Story 
 ![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story1.png)
 
 ### Story Section
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story5.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/story5.png)
 
 ### Show Story 
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story3.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/story3.png)
 
 ### show Story with views & likes
-![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/039206d7b4f9c10d5eb18c0917a938be53aea45e/public/story4.png)
+![Home Page](https://github.com/CoderRaushan/QuickChatFrontend/blob/e335a641f18aca9a6d906550dda0b2d1e5df9158/public/story4.png)
 
 ## Getting Started
 
